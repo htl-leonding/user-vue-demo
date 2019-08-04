@@ -1,5 +1,7 @@
 # user-vue-demo
 
+The original example was migrated to vue/cli 3 and Bootstrap 4
+
 ## Project setup
 ```
 npm install
